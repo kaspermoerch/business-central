@@ -1,0 +1,22 @@
+{
+	"folders": [],
+	"settings": {
+		"CRS.AlSubFolderName": "src",
+    "CRS.RemovePrefixFromFilename": true,
+    "CRS.RenameWithGit": true,
+    "CRS.RemoveSuffixFromFilename": true,
+    "CRS.FileNamePattern": "<ObjectName>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectName>.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectName>.al",
+    "CRS.OnSaveAlFileAction": "Reorganize", 
+    "CRS.ObjectNameSuffix": "_KTM"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-dynamics-smb.al",
+			"rasmus.al-formatter",
+			"waldo.al-extension-pack",
+			"vscode-icons-team.vscode-icons"
+		]
+	}
+}
