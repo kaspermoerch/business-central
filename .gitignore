@@ -1,5 +1,9 @@
+README.md
+
 *.app
 *.flf
 *.zip
 *.xlf
+
 rad.json
+launch.json
