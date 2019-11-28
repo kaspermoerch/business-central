@@ -1,0 +1,30 @@
+{
+  "id": "89659db2-1608-4244-b609-6760ffcc4bdb",
+  "name": "API Template (KTM)",
+  "publisher": "Kasper Thestrup Mørch",
+  "version": "1.0.0.0",
+  "brief": "Templates for API Pages & Queries",
+  "dependencies": [
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "15.0.0.0"
+    }
+  ],
+  "platform": "15.0.0.0",
+  "idRanges": [
+    {
+      "from": 73300,
+      "to": 73399
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "4.0"
+}

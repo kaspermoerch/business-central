@@ -1,5 +1,10 @@
 {
-	"folders": [],
+	"folders": [
+		{
+			"name": "API Template",
+			"path": "api-template"
+		}
+	],
 	"settings": {
 		"CRS.AlSubFolderName": "src",
     "CRS.RemovePrefixFromFilename": true,
